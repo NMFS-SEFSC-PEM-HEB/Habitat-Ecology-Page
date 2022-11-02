@@ -1,8 +1,8 @@
-[![](https://img.shields.io/badge/Open%20In-RStudio%20Cloud-green)](https://rstudio.cloud/content/4772998) Add [Postcards](https://github.com/seankross/postcards)*have been installed*
+[![](https://img.shields.io/badge/Open%20In-RStudio%20Cloud-green)](https://rstudio.cloud/content/4772998) Add [Postcards](https://github.com/seankross/postcards) have been installed
 
 # HABITAT ECOLOGY BRANCH
 
-Our Habitat Ecology team focuses on scientific research and monitoring of interactions among organisms, habitats, and their environments to determine how habitat impacts NOAA\'s trust resources. We are keenly interested in determining how environmental change like habitat loss, habitat restoration, alteration of salinity patterns, and climate change are impacting the relationships between organisms and their essential habitats. This includes analyses of patterns in organism presence-absence, density-biomass,  growth-mortality, production, abundance\--distribution, genetics, and immigration-emigration. Our research and data collection facilitate the adaptive management of marine and coastal ecosystems covering a broad range of habitats including coral reefs, mangroves, seagrass, and Spartina marshes.
+Our Habitat Ecology team focuses on scientific research and monitoring of interactions among organisms, habitats, and their environments to determine how habitat impacts NOAA\'s trust resources. We are keenly interested in determining how environmental change like habitat loss, habitat restoration, alteration of salinity patterns, and climate change are impacting the relationships between organisms and their essential habitats. This includes analyses of patterns in organism presence-absence, density-biomass, growth-mortality, production, abundance\--distribution, genetics, and immigration-emigration. Our research and data collection facilitate the adaptive management of marine and coastal ecosystems covering a broad range of habitats including coral reefs, mangroves, seagrass, and Spartina marshes.
 
 This page is from a NMFS SEFSC-Template and uses the NMFS palette and fonts are being set in `css/nmfs-palette-theme.css`.. and the distill default.
 
@@ -25,3 +25,10 @@ or Edit locally using RStudio
 -   Add pages like `Page1.Rmd` and then add those to `_site.yml`
 -   Add your images (like logos) to `images` and a favicon to `favicon.ico`
 -   Push your changes back up to GitHub and the GitHub Action will rebuild the website.
+
+```{=html}
+Dr. Hoskins -Brown
+```
+###### About
+
+[Dr. Hoskins-Brown] (Dionne.Rmd)
