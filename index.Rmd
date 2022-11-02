@@ -13,19 +13,23 @@ This is a distill website using RMarkdown and the postcards package to create th
 
 ### Set-up
 
-* Install the needed packages. You only need to do this once.
+-   Install the needed packages. You only need to do this once.
 
+```{=html}
+<!-- -->
 ```
-install.packages(c("rmarkdown", "distill", "postcards", "knitr")
-```
+    install.packages(c("rmarkdown", "distill", "postcards", "knitr")
 
 ### Customize
 
-* `index.Rmd` will be the front page. You can change the layout by changing `postcards::trestles`
-* Edit `_site.yml` to change the top navbar
-* Add pages like `Page1.Rmd` and then add those to `_site.yml`
-* Add your images (like logos) to `images` and a favicon to `favicon.ico`
+-   `index.Rmd` will be the front page. You can change the layout by changing `postcards::trestles`
+-   Edit `_site.yml` to change the top navbar
+-   Add pages like `Page1.Rmd` and then add those to `_site.yml`
+-   Add your images (like logos) to `images` and a favicon to `favicon.ico`
 
+```{=html}
+<!-- -->
+```
+    install.packages("postcards")
 
-
-
+postcards::create_postcard(template = "solana") rmarkdown::render("Dionne.Rmd")
