@@ -32,4 +32,6 @@ This is a distill website using RMarkdown and the postcards package to create th
 ```
     install.packages("postcards")
 
-postcards::create_postcard(template = "solana") rmarkdown::render("Dionne.Rmd")
+postcards::create_postcard(template = "solana")
+
+rmarkdown::render("Dionne.Rmd")
