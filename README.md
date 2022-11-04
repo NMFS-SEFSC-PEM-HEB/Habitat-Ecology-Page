@@ -1,5 +1,7 @@
 [![](https://img.shields.io/badge/Open%20In-RStudio%20Cloud-green)](https://rstudio.cloud/content/4772998) Add [Postcards](https://github.com/seankross/postcards) have been installed
 
+> ![](zhengtao-tang-V7SKRhXskv8-unsplash)
+
 # HABITAT ECOLOGY BRANCH
 
 Our Habitat Ecology team focuses on scientific research and monitoring of interactions among organisms, habitats, and their environments to determine how habitat impacts NOAA's trust resources. We are keenly interested in determining how environmental change like habitat loss, habitat restoration, alteration of salinity patterns, and climate change are impacting the relationships between organisms and their essential habitats. This includes analyses of patterns in organism presence-absence, density-biomass, growth-mortality, production, abundance\--distribution, genetics, and immigration-emigration. Our research and data collection facilitate the adaptive management of marine and coastal ecosystems covering a broad range of habitats including coral reefs, mangroves, seagrass, and Spartina marshes.

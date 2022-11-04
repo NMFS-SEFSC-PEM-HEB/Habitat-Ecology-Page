@@ -13,11 +13,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 This is a basic page with no table of contents. You specify this type of page with
 
-```
-output:
-  distill::distill_article:
-    self_contained: false
-```
+    output:
+      distill::distill_article:
+        self_contained: false
 
 ## R code
 
