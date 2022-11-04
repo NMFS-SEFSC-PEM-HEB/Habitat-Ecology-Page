@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/Open%20In-RStudio%20Cloud-green)](https://rstudio.cloud/content/4772998) Add [Postcards](https://github.com/seankross/postcards) have been installed
 
-> ![](zhengtao-tang-V7SKRhXskv8-unsplash)
+![](images/noaa-fisheries-rgb-2line-horizontal-small.png)
 
 # HABITAT ECOLOGY BRANCH
 
@@ -30,4 +30,6 @@ or Edit locally using RStudio
 
 ###### About
 
-[Dionne](Dionne.Rmd)
+[Dionne Hoskins-Brown](files/Dionne)
+
+![](images/james-coleman-5BOJ0_g4mcU-unsplash.jpg "image of beach shoreline"){width="6240" height="200"}

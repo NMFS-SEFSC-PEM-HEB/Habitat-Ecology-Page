@@ -15,9 +15,8 @@ This is a distill website using RMarkdown and the postcards package to create th
 
 -   Install the needed packages. You only need to do this once.
 
-```{=html}
 <!-- -->
-```
+
     install.packages(c("rmarkdown", "distill", "postcards", "knitr")
 
 ### Customize
@@ -27,12 +26,10 @@ This is a distill website using RMarkdown and the postcards package to create th
 -   Add pages like `Page1.Rmd` and then add those to `_site.yml`
 -   Add your images (like logos) to `images` and a favicon to `favicon.ico`
 
-```{=html}
 <!-- -->
-```
+
     install.packages("postcards")
 
 postcards::create_postcard(template = "solana")
 
-rmarkdown::render("Dionne.Rmd")
-render("Dionne.Rmd")
+rmarkdown::render("Dionne.Rmd") render("Dionne.Rmd")

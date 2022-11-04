@@ -1,17 +1,19 @@
 name: "."
-title: "NOAA Distill Website"
+title: "Joy's HEB Distill Website"
 description: |
   NMFS R User Group events and materials
 favicon: "favicon.ico"
 output_dir: "docs"
-base_url: https://nmfs-opensci.github.io/NOAA-distill-website
+base_url: https://NMFS-SEFSC-PEM-HEB/Habitat-Ecology-Page
 navbar:
   logo: 
-    image: images/nmfs-opensci-logo.png
+    image: images/noaa-fisheries-rgb-2line-horizontal-small.png
   search: false
   right:
     - text: "Home"
       href: index.html
+    - text: "Dionne"
+      href: dionne.Rmd
     - text: "Page 1"
       href: Page1.html
     - text: "Page 2"

@@ -27,13 +27,10 @@ You can add a table of contents to your pages. This will be taken from your head
 
 ### The yaml
 
-```
-output:
-  distill::distill_article:
-    self_contained: false
-    toc: true
-    toc_depth: 3
-```
+    output:
+      distill::distill_article:
+        self_contained: false
+        toc: true
+        toc_depth: 3
 
 # Another top header
-
