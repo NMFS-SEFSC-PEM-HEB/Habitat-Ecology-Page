@@ -1,5 +1,5 @@
 ---
-title: "this is my Simple Page"
+title: "Focus of Research"
 output:
   distill::distill_article:
     self_contained: false
@@ -9,7 +9,17 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Basic
+## Generally
+
+| Analyses of patterns   | Atlantic, Gulf and Carribean Habitats |
+|------------------------|---------------------------------------|
+| Presence-absence       | Seagrass                              |
+| density-biomass        | Marsh                                 |
+| growth-mortality       | Mangrove                              |
+| production             | Coral                                 |
+| abundance-distribution | Marine, general                       |
+| genetics               | Coastal, general                      |
+| immigration-emigration |                                       |
 
 This is a basic page with no table of contents. You specify this type of page with
 
@@ -20,6 +30,10 @@ This is a basic page with no table of contents. You specify this type of page wi
 ## R code
 
 Because this uses RMarkdown. You can have R code.
+
+```{r}
+render(./StaffPostCards/index.Rmd)
+```
 
 ```{r echo=FALSE}
 plot(1,1)

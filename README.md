@@ -23,13 +23,21 @@ or Edit locally using RStudio
 ### Customizing is next
 
 -   `index.Rmd` will be the front page. You can change the layout by changing `postcards::trestles`
+
 -   Edit `_site.yml` to change the top navbar
+
 -   Add pages like `Page1.Rmd` and then add those to `_site.yml`
+
 -   Add your images (like logos) to `images` and a favicon to `favicon.ico`
+
 -   Push your changes back up to GitHub and the GitHub Action will rebuild the website.
 
 ###### About
 
-[Dionne Hoskins-Brown](files/Dionne)
+[Dionne Hoskins-Brown](../StaffPostCards/index.html)
+
+
 
 ![](images/james-coleman-5BOJ0_g4mcU-unsplash.jpg "image of beach shoreline"){width="6240" height="200"}
+
+[![](images/PhyloPic.afbc3136.Almandine-vectorized-by-T-Michael-Keesey.Decapoda_Dendrobranchiata_Penaeidae_Penaeoidea_Penaeus_Penaeus-monodon.png){#Almandine (vectorized by T. Michael Keesey). .thumbnail Creative Commons Attribution-ShareAlike 3.0 Unported="" width="100" height="70"}](http://creativecommons.org/licenses/by-sa/3.0/)

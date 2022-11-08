@@ -1,0 +1,49 @@
+---
+title: "Dionne Hoskins-Brown"
+image: "zhengtao-tang-V7SKRhXskv8-unsplash.jpg"
+links:
+  - label: Resume
+    url: "https://linkedin.com/"
+  - label: Blog
+    url: "https://medium.com/"
+  - label: SoundCloud
+    url: "https://soundcloud.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+output:
+  postcards::solana
+---
+
+## Bio
+
+Dr. Hoskin's-Brown interests are ecology of marine sediments, invertebrate fisheries, Gullah Geechee communities, diversity in science
+
+## Education
+
+**University of South Carolina** \| South Carolina
+
+Ph D. Marine Science  \| 1999
+
+**Savannah State College** \| Georgia
+
+B.S. Marine Science \| 1992
+
+## Experience
+
+**Director, NOAA Sponsored Programs** \| Savannah State University \| 2008 - Present
+
+**Commissioner** \|Gullah-Geechee Cultural Heritage Corridor Commission (DoI/NPS) \| 2017-2022 chair; 2019 - president
+
+**Commissioner and Chair** \| Chatham County Resource Protection Commission \| 2008 - 2016
+
+**Associate Graduate Professor** \| Marine Science Program, Savannah State University \|April 2002 - present
+
+**Assistant Research Professor* \| Marine Science Program, Savannah State University \| August 1999 - April 2002
+
+**Postdoctoral Research Associate,r* \| Center for Marine, Environmental Science and Biotechnology Research,
+Savannah State University \| August 1999 - January 2000
+
+**Cooperative Education Student* \| DOC/NOAA/National Ocean Service, Ecotoxicology Division, Charleston,
+SC \| April 1999 - December 1999
+
+
